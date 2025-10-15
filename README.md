@@ -53,7 +53,7 @@ A visually stunning, responsive e-commerce frontend application built with React
 - **Local Contact**: Indian phone numbers and addresses
 
 ### Technical Features
-- **TypeScript**: Full type safety and better developer experience
+
 - **Redux Toolkit**: Efficient state management for cart, wishlist, and theme
 - **React Router**: Dynamic routing with animated page transitions
 - **Local Storage**: Persistent cart and wishlist data
